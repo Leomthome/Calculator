@@ -1,0 +1,66 @@
+C:\Users\matheus.souza\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\matheus.souza\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\matheus.souza\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\matheus.souza\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\matheus.souza\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+C:\Users\matheus.souza\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\matheus.souza\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\matheus.souza\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\matheus.souza\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+E:\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+E:\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+E:\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+E:\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+E:\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+E:\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+E:\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+E:\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+E:\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\seeduc\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\seeduc\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\seeduc\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\seeduc\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\seeduc\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\seeduc\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\seeduc\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+C:\Users\seeduc\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\seeduc\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+E:\Trabs 2015\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+E:\Trabs 2015\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+E:\Trabs 2015\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+E:\Trabs 2015\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+E:\Trabs 2015\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+E:\Trabs 2015\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+E:\Trabs 2015\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+E:\Trabs 2015\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+E:\Trabs 2015\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+F:\Nova pasta (2)\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+F:\Nova pasta (2)\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+F:\Nova pasta (2)\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+F:\Nova pasta (2)\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+F:\Nova pasta (2)\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+F:\Nova pasta (2)\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+F:\Nova pasta (2)\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+F:\Nova pasta (2)\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+F:\Nova pasta (2)\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\carlos.ribeiro\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\carlos.ribeiro\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\carlos.ribeiro\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\carlos.ribeiro\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\carlos.ribeiro\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\carlos.ribeiro\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\carlos.ribeiro\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+C:\Users\carlos.ribeiro\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\carlos.ribeiro\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\ana\Downloads\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\ana\Downloads\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\ana\Downloads\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\ana\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\ana\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\ana\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\ana\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\ana\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\ana\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+C:\Users\ana\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\ana\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\ana\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.exe
